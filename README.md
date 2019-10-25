@@ -1,6 +1,6 @@
 # sentinel2-to-ndvi
 
-Convert Sentinel 2 spectral data to NDVI for given coordinates.
+Convert Sentinel 2 spectral data to NDVI.
 
 The [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) is a widely used index to messure vegetation.
 
