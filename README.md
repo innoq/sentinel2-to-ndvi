@@ -9,7 +9,9 @@ We use high resolution satellite data from the Sentinel 2 satellites to calculat
 ## Example
 ![NVDI](examples/T35MRU_20190915T080611_ndvi.jpg)
 
-(White is a value of 1.0, which is best, Black means bad or no vegetation).
+Area around Nyagatare, Rwanda.
+
+White is a value of 1.0, which is best, Black means bad or no vegetation.
 
 
 ## Prerequisites
